@@ -1,0 +1,20 @@
+#Python API Automation Framework
+
+Hybrid Custom Framework to Test the Rest API's
+
+### Tech Stack
+Python 3.11
+Request- HTTP Requests
+Pytest - Testing Framework
+Reporting -- Allure Report,Pytest HTML
+Test Data -- CSV,Excel,Json
+Parallel --- X distribute
+-----------------------------
+
+How to install Packages
+---
+Pip install requests pytest , Pytest-HTML faker allure-pytest
+
+To Freeze package version
+pip install
+
